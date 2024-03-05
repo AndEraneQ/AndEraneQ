@@ -12,6 +12,7 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+Refresh to get a new meme 😎
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AndEraneQ&icon=2&color=1)](https://visitcount.itsvg.in)
