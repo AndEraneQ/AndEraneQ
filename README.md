@@ -11,7 +11,7 @@ I have also experience in working with git, github and linux system.
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005700229187) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-trojan/) 
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 Refresh to get a new meme 😎
 
