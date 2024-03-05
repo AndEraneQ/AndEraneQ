@@ -18,8 +18,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### At the end
-😎 In addition to coding, I'm a cheerful individual who enjoys sports and traveling. I hope to bring a lot of positive energy when we meet and in our future collaboration. <br/>
+### At the end 😎!
+In addition to coding, I'm a cheerful individual who enjoys sports and traveling. I hope to bring a lot of positive energy when we meet and in our future collaboration. <br/>
 
 
 
