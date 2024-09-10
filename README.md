@@ -1,33 +1,17 @@
-# Hi, I'm Piotr!
+Hi, My Name is Piotr Trojan
+🌍 I am currently based in Cracow, Poland.
+✉️ You can contact me at trojanpiotrek@interia.pl
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/piotr-trojan/
 
-👩🏻‍🎓 I'm a second-year computer science student at the Krakow University of Technology. <br/>
-💭 Currently, I am expanding my knowledge in Hibernate, Spring, Spring Boot, and the HTTP protocol. <br/>
-🕵️‍♂️ I am currently seeking my first professional experience in IT, particularly focusing on opportunities involving the technologies bellow.
+I am pursuing my degree in Computer Science at Cracow University of Technology.
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br/>
-I have also experience in working with git, github and linux system.
+🧠 I am passionate about technology and have experience in Java, Spring Boot, and database management with MySQL.
+🌱 I am focused on developing my skills in Test-Driven Development (TDD) and coding challenges on LeetCode, where I've been solving daily problems for over 70 days! You can check out my profile here: LeetCode profile
+👯 I’m eager to collaborate on exciting projects and expand my knowledge in the tech industry.
 
-## ✔️ My Projects:
-### [Online Shop](https://github.com/AndEraneQ/onlineStore)
-### [Gradebook](https://github.com/AndEraneQ/GradeBook) 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005700229187) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-trojan/) 
-
-## 😂 Random Dev Meme:
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-Refresh to get a new meme 😎
-
----
-[![](https://visitcount.itsvg.in/api?id=AndEraneQ&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## At the end 😎!
-In addition to coding, I'm a cheerful individual who enjoys sports and traveling. I hope to bring a lot of positive energy when we meet and in our future collaboration. <br/>
-
-
-
-
-
+Skills
+Java, Spring Boot
+MySQL, Hibernate
+JUnit, Mockito, AssertJ, TDD
+Git, GitHub, Maven
+Basic HTML, CSS, JavaScript, React
